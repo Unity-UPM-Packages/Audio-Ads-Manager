@@ -1,0 +1,21 @@
+{
+  "name": "com.thelegends.audio.ads.manager",
+  "displayName": "Audio Ads for Unity3d",
+  "description": "Audio Ads for Unity.",
+  "keywords": [],
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/Audio-Ads-Manager#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/Audio-Ads-Manager/releases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/Unity-UPM-Packages/Audio-Ads-Manager.git",
+    "url": "https://github.com/Unity-UPM-Packages/Audio-Ads-Manager.git"
+  },
+  "author": {
+    "name": "Unity-UPM-Packages",
+    "url": "https://github.com/Unity-UPM-Packages"
+  },
+  "dependencies": {}
+}

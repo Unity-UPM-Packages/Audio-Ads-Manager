@@ -1,0 +1,18 @@
+{
+    "name": "com.thelegends.audio.ads.manager.Editor",
+    "rootNamespace": "com.thelegends.audio.ads.manager.Editor",
+    "references": [
+        "com.thelegends.audio.ads.manager"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

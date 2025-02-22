@@ -1,0 +1,14 @@
+{
+    "name": "com.thelegends.audio.ads.manager",
+    "rootNamespace": "com.thelegends.audio.ads.manager",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
