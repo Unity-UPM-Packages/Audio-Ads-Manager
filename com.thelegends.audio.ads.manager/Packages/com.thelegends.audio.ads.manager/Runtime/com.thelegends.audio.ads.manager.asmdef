@@ -1,9 +1,7 @@
 {
-    "name": "ProjectScope.ProjectName.Demo",
-    "rootNamespace": "ProjectScope.ProjectName.Demo",
-    "references": [
-        "ProjectScope.ProjectName"
-    ],
+    "name": "com.thelegends.audio.ads.manager",
+    "rootNamespace": "com.thelegends.audio.ads.manager",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

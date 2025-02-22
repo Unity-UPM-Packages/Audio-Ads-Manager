@@ -1,12 +1,10 @@
 {
-    "name": "ProjectScope.ProjectName.Editor",
-    "rootNamespace": "ProjectScope.ProjectName.Editor",
+    "name": "com.thelegends.audio.ads.manager.Demo",
+    "rootNamespace": "com.thelegends.audio.ads.manager.Demo",
     "references": [
-        "ProjectScope.ProjectName"
+        "com.thelegends.audio.ads.manager"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

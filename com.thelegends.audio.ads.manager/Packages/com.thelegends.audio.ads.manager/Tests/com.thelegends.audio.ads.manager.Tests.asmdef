@@ -1,10 +1,10 @@
 {
-    "name": "ProjectScope.ProjectName.Tests",
-    "rootNamespace": "ProjectScope.ProjectName.Tests",
+    "name": "com.thelegends.audio.ads.manager.Tests",
+    "rootNamespace": "com.thelegends.audio.ads.manager.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "ProjectScope.ProjectName"
+        "com.thelegends.audio.ads.manager"
     ],
     "includePlatforms": [
         "Editor"
