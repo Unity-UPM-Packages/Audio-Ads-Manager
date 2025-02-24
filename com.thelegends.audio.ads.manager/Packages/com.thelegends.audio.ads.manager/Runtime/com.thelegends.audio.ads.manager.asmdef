@@ -1,7 +1,11 @@
 {
     "name": "com.thelegends.audio.ads.manager",
     "rootNamespace": "com.thelegends.audio.ads.manager",
-    "references": [],
+    "references": [
+        "GUID:a1d7dc17f58ef4bdfb2308ebd5b2494f",
+        "GUID:3125b533d9bc33a4794e3332ebe5cc5a",
+        "GUID:b9892e19a741c2c4690060e4a6416aca"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
