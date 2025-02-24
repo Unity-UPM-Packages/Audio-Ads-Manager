@@ -18,6 +18,8 @@
     "url": "https://github.com/Unity-UPM-Packages"
   },
   "dependencies": {
-    "com.thelegends.odeeo.sdk": "3.4.3"
+    "com.thelegends.odeeo.sdk": "3.4.3",
+    "com.thelegends.unity.patterns": "1.0.1",
+    "com.thelegends.firebase.manager": "1.0.7"
   }
 }
